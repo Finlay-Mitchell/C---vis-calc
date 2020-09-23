@@ -1,0 +1,40 @@
+﻿  MyForm.cpp
+D:\Utils\C++\Project3\MyForm.h(507,32): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=long double
+          ]
+D:\Utils\C++\Project3\MyForm.h(506): message : while compiling class template member function 'void Project3::MyForm<long double>::button16_Click(System::Object ^,System::EventArgs ^)'
+D:\Utils\C++\Project3\MyForm.h(265): message : see reference to function template instantiation 'void Project3::MyForm<long double>::button16_Click(System::Object ^,System::EventArgs ^)' being compiled
+D:\Utils\C++\Project3\MyForm.cpp(13): message : see reference to class template instantiation 'Project3::MyForm<long double>' being compiled
+D:\Utils\C++\Project3\MyForm.h(498,31): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=long double
+          ]
+D:\Utils\C++\Project3\MyForm.h(497): message : while compiling class template member function 'void Project3::MyForm<long double>::button12_Click(System::Object ^,System::EventArgs ^)'
+D:\Utils\C++\Project3\MyForm.h(227): message : see reference to function template instantiation 'void Project3::MyForm<long double>::button12_Click(System::Object ^,System::EventArgs ^)' being compiled
+D:\Utils\C++\Project3\MyForm.h(492,31): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=long double
+          ]
+D:\Utils\C++\Project3\MyForm.h(491): message : while compiling class template member function 'void Project3::MyForm<long double>::button8_Click(System::Object ^,System::EventArgs ^)'
+D:\Utils\C++\Project3\MyForm.h(189): message : see reference to function template instantiation 'void Project3::MyForm<long double>::button8_Click(System::Object ^,System::EventArgs ^)' being compiled
+D:\Utils\C++\Project3\MyForm.h(486,31): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=long double
+          ]
+D:\Utils\C++\Project3\MyForm.h(485): message : while compiling class template member function 'void Project3::MyForm<long double>::button20_Click(System::Object ^,System::EventArgs ^)'
+D:\Utils\C++\Project3\MyForm.h(303): message : see reference to function template instantiation 'void Project3::MyForm<long double>::button20_Click(System::Object ^,System::EventArgs ^)' being compiled
+D:\Utils\C++\Project3\MyForm.h(453,31): warning C4244: '=': conversion from '__int64' to 'T', possible loss of data
+          with
+          [
+              T=long double
+          ]
+D:\Utils\C++\Project3\MyForm.h(452): message : while compiling class template member function 'void Project3::MyForm<long double>::button4_Click(System::Object ^,System::EventArgs ^)'
+D:\Utils\C++\Project3\MyForm.h(150): message : see reference to function template instantiation 'void Project3::MyForm<long double>::button4_Click(System::Object ^,System::EventArgs ^)' being compiled
+D:\Utils\C++\Project3\MyForm.h(508): warning C4700: uninitialized local variable 'result' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project3.vcxproj -> D:\Utils\C++\Project3\Debug\Project3.exe

@@ -1,0 +1,5 @@
+D:\Utils\C++\Project3\Debug\Project3.vcxprojAssemblyReference.cache
+D:\Utils\C++\Project3\Debug\Project3.MyForm.resources
+D:\Utils\C++\Project3\Debug\Project3.vcxproj.GenerateResource.cache
+D:\Utils\C++\Project3\Debug\Project3.exe
+D:\Utils\C++\Project3\Debug\Project3.pdb
